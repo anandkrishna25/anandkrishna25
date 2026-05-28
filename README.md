@@ -1,116 +1,27 @@
-```md
-<h1 align="center">Hi, I'm Anand Krishna Battamekala</h1>
+# 💫 About Me:
+## Introduction<br><br>I’m Anand Krishna Battamekala, an aspiring AWS Cloud Security Engineer and DevSecOps enthusiast pursuing B.Tech in AI & Data Science at KL University.<br><br>I am passionate about designing secure, scalable, and automated cloud infrastructures using AWS services. My primary focus areas include cloud security, infrastructure monitoring, security automation, event-driven architectures, and DevSecOps practices.<br><br>I enjoy building production-grade AWS projects that combine security, automation, and reliability using services such as AWS Security Hub, CloudTrail, AWS Config, EventBridge, Lambda, CloudWatch, and IAM.<br><br>Currently, I am strengthening my expertise in:<br><br>* AWS Cloud Security<br>* DevSecOps & CI/CD<br>* Infrastructure Automation<br>* Monitoring & Governance<br>* Security Incident Response<br>* Event-Driven Cloud Systems<br><br>I am actively seeking opportunities to contribute, collaborate, and grow as a Cloud Security Engineer.<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AWS+Cloud+Security+Engineer;DevSecOps+Enthusiast;Cloud+Automation+Builder;Security+Focused+Infrastructure+Engineer" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  AWS Cloud Security Engineer • DevSecOps Enthusiast • Security Automation
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-krishna25082005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandnani2005@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anandkrishna25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=anandkrishna25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anandkrishna25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anandkrishna25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I am a B.Tech student in AI & Data Science at KL University with a strong focus on AWS Cloud Security, DevSecOps, and secure cloud infrastructure design.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I enjoy building scalable, security-focused cloud architectures and automating security operations using AWS native services. My interests include cloud governance, infrastructure monitoring, event-driven systems, and security automation.
-
-Currently focused on:
-- AWS Cloud Security Engineering
-- DevSecOps & CI/CD Security
-- Infrastructure Monitoring & Governance
-- Event-Driven Cloud Architectures
-- Security Automation using AWS Services
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anandkrishna25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anandkrishna25&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tech Stack
-
-### Cloud & Security
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Config-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Hub-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
-</p>
-
-### DevSecOps & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Application_Load_Balancer-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-</p>
-
----
-
-## Projects
-
-### AWS Cloud Security Auto-Healing Platform
-Automated security remediation platform using AWS Security Hub, EventBridge, Lambda, SNS, CloudTrail, and AWS Config to detect and remediate cloud misconfigurations in real time.
-
-### Production-Grade AWS Architecture
-Designed and deployed scalable and secure AWS infrastructure with VPC segmentation, Application Load Balancer, Auto Scaling Groups, monitoring, and security best practices.
-
-### AWS DevSecOps CI/CD Pipeline
-Implemented a secure CI/CD workflow integrating automated deployments, security scanning, infrastructure automation, and monitoring pipelines.
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandkrishna25&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandkrishna25&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anandkrishna25&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandkrishna25&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/anandkrishna25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/anand-krishna25082005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandkrishna25&label=Profile%20Views&color=70A5FD&style=flat" alt="Profile Views" />
-</p>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
