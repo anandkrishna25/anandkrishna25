@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anandkrishna25/anandkrishna25/main/profile-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/anandkrishna25/anandkrishna25/main/gitbanner.png" width="100%" />
 </p>
 <!-- ============================================================
      GitHub Profile README — anandkrishna25
