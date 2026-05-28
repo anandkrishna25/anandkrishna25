@@ -2,10 +2,7 @@
      GitHub Profile README — anandkrishna25
      AWS Cloud Security Engineer | DevSecOps | Security Automation
      ============================================================ -->
-<p align="center">
-  <img src="./profile-banner.svg" alt="Banner" width="100%" />
-</p>
-<div align="center">
+
 
 <!-- ANIMATED TYPING BANNER -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=AWS+Cloud+Security+Engineer;DevSecOps+%7C+Security+Automation;Building+Self-Healing+Cloud+Infrastructure;Event-Driven+Threat+Remediation;NON_COMPLIANT+%E2%86%92+COMPLIANT+in+%3C3+Minutes)](https://git.io/typing-svg)
