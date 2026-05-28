@@ -2,7 +2,9 @@
      GitHub Profile README — anandkrishna25
      AWS Cloud Security Engineer | DevSecOps | Security Automation
      ============================================================ -->
-
+<p align="center">
+  <img src="./profile-banner.svg" alt="Banner" width="100%" />
+</p>
 <div align="center">
 
 <!-- ANIMATED TYPING BANNER -->
@@ -23,7 +25,7 @@
 ```python
 engineer = {
     "name"     : "Anand Krishna",
-    "location" : "Hyderabad, India",
+    "location" : "Nellore, India",
     "focus"    : ["AWS Cloud Security", "DevSecOps", "Security Automation"],
     "building" : "Enterprise SOAR pipelines on AWS",
     "mttr"     : "< 3 minutes (NON_COMPLIANT → COMPLIANT, zero manual steps)",
